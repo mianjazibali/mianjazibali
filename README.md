@@ -28,7 +28,7 @@ A passionate Software Engineer with a demonstrated history of working in the hea
 <p align="left">
   <a href="https://www.linkedin.com/in/mianjazibali/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mianjazibali/"><img src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/mianjazibali/"><img src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   &nbsp;&nbsp;
 </p>
 

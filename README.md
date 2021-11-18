@@ -4,8 +4,6 @@
 
 A passionate Software Engineer with a demonstrated history of working in the health care and IT industry.
 
-<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
-
 ### 💼  Things that I'm currently working on: 
 * Working as an Associate Software Engineer at CareAxiom/Caremerge.
 * Taking an AWS - Certified Solution Architect Associate Course on Udemy. 

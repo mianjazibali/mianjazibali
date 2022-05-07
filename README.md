@@ -10,14 +10,14 @@ A passionate Software Engineer with a demonstrated history of working in the hea
  
  **Languages and Frameworks:**
 <p align="left">
-  <img src="https://img.icons8.com/color/240/000000/javascript.png" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/240/000000/html-5.png" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/240/000000/css3.png" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/240/000000/react-native.png" width="50" height="50"/>
- &nbsp;
-  <img src="https://img.icons8.com/color/240/000000/nodejs.png" width="50" height="50"/>
- &nbsp;
-  <img src="https://img.icons8.com/color/240/000000/git.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/240/000000/javascript.png" width="50" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/240/000000/typescript.png" width="50" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/240/000000/react-native.png" width="50" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/240/000000/nodejs.png" width="50" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/240/000000/mysql-logo.png" width="50" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/240/000000/redis.png" width="50" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/240/000000/amazon-web-services.png" width="50" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/240/000000/git.png" width="50" height="50"/> &nbsp;
   <img src="https://img.icons8.com/color/240/000000/github--v1.png" width="50" height="50"/>
 </p>
 

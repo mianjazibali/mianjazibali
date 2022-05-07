@@ -5,9 +5,8 @@
 A passionate Software Engineer with a demonstrated history of working in the health care and IT industry.
 
 ### 💼  Things that I'm currently working on: 
-* Working as an Associate Software Engineer at CareAxiom/Caremerge.
-* Taking an AWS - Certified Solution Architect Associate Course on Udemy. 
-* Looking forward to contribute to open source web projects. 
+* Doing Masters of Data Science from Friedrich Alexander University.
+* Looking forward to contribute to exciting open source projects. 
  
  **Languages and Frameworks:**
 <p align="left">

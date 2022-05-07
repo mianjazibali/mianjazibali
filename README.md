@@ -17,7 +17,7 @@ A passionate Software Engineer with a demonstrated history of working in the hea
   <img src="https://img.icons8.com/color/240/000000/mysql-logo.png" width="50" height="50"/> &nbsp;
   <img src="https://img.icons8.com/color/240/000000/redis.png" width="50" height="50"/> &nbsp;
   <img src="https://img.icons8.com/color/240/000000/amazon-web-services.png" width="50" height="50"/> &nbsp;
-  <img src="https://img.icons8.com/color/240/000000/git.png" width="50" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/240/000000/git.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/240/000000/github--v1.png" width="50" height="50"/>
 </p>
 

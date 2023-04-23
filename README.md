@@ -4,8 +4,6 @@
 
 <p>
   <em>
-    Master of Data Science Student at <a href="https://www.fau.de">Friedrich Alexander University</a>
-    </br>
     Software Engineer at <a href="https://naise.eu">NAiSE</a> 🇩🇪
   </em>
 </p>
